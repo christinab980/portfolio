@@ -104,6 +104,12 @@ p {
   border-radius: 8px;
 }
 
+.contact-page {
+  background: var(--background-color);
+  border-radius: 8px;
+  padding: 30px 10px 30px 40px;
+}
+
 @media (max-width: 960px) {
   h1 {
     font-size: 42px !important;
